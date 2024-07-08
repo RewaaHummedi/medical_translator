@@ -1,5 +1,5 @@
-streamlit
-transformers
-pandas
-openpyxl
-torch
+streamlit==1.11.0
+transformers==4.24.0
+pandas==1.4.2
+openpyxl==3.0.9
+torch==1.13.1
