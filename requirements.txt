@@ -2,4 +2,3 @@ streamlit
 transformers
 pandas
 openpyxl
-AutoModelForSeq2SeqLM
